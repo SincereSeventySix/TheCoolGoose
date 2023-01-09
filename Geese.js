@@ -19,9 +19,9 @@ const newMsg2 = [
   "Another?",
   "More?",
   "One More?",
-  "One More!",
-  "Cool Right?",
+  "Yes! More!",
   "See More?",
+  "MORE!",
   "Start Again?"
 ]; //array 4
 
@@ -53,7 +53,7 @@ function seeGeese() {
      }
   }
 
-function changePics(index,array1, array2, array3, array4){
+function changePics(index,array1,array2,array3,array4){
     let gooseCount = index;
         if (gooseCount == array1[gooseCount]) {
               picHold.style.backgroundImage="url("+array2[gooseCount]+".jpeg)";
