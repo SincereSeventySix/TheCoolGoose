@@ -6,12 +6,12 @@ let title = document.getElementById('title');
 btn.onclick = seeGeese;
 
 const newMsg = [
-  "Cool in the air...",
+  "So Cool in the Air...",
   "Really Cool on Water...",
   "Still Cool on Land...",
-  "Even Cool a long time ago...",
-  "Planes are just so cool...",
-  "But this is the coolest...",
+  "Even Cool a Long Time Ago...",
+  "Planes are Just so Cool...",
+  "No, Really the Coolest...",
   "The Coolest Plane in the World."
 ];
 
