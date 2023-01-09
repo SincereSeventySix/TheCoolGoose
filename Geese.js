@@ -56,7 +56,7 @@ function seeGeese() {
 function changePics(index,array1, array2, array3, array4){
     let gooseCount = index;
         if (gooseCount == array1[gooseCount]) {
-              picHold.style.backgroundImage="url("+array2[gooseCount]+".JPEG)";
+              picHold.style.backgroundImage="url("+array2[gooseCount]+".jpeg)";
               innerMess.innerHTML = array3[gooseCount];
               btn.innerHTML = array4[gooseCount];
          }
