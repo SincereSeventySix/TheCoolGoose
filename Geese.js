@@ -20,8 +20,8 @@ const newMsg2 = [
   "More?",
   "One More?",
   "Yes! More!",
+  "MORE!!",
   "See More?",
-  "MORE!",
   "Start Again?"
 ]; //array 4
 
